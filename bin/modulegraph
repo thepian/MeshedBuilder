@@ -1,4 +1,4 @@
-#!/Users/hvendelbo/repositories/MeshedApp/Meshed
+#!/Users/hvendelbo/repositories/MeshedBuilder/Meshed
 # EASY-INSTALL-ENTRY-SCRIPT: 'modulegraph==0.9.1','console_scripts','modulegraph'
 __requires__ = 'modulegraph==0.9.1'
 import sys

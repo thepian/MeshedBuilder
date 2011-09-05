@@ -1,4 +1,4 @@
-#!/Users/hvendelbo/repositories/MeshedApp/Meshed
+#!/Users/hvendelbo/repositories/MeshedBuilder/Meshed
 # EASY-INSTALL-ENTRY-SCRIPT: 'macholib==1.4.2','console_scripts','macho_standalone'
 __requires__ = 'macholib==1.4.2'
 import sys
